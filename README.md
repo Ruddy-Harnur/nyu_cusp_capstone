@@ -16,3 +16,5 @@ These features were calculated in both the Risk Input Model and Neighborhood Pro
 The visualization shows the inputs into the each of the respective notebooks, and the resulting csv's were used to build interactive dashboards through Tableau as well as inputs for machine learning tools.
 
 A Decision Tree notebook employing regression analysis helped determine which features were most important at influencing risk, while unsupervised learning techniques through Gaussian Mixture Models clustered the neighborhoods to see if any similarities in how neighborhoods behaved. (Refer to Analysis Read Me visualization)
+
+![alt text](https://github.com/[Ruddy-Harnur]/[nyu_cusp_capstone]/blob/[Ani]/image.jpg?raw=true)
