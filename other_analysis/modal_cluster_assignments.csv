@@ -1,0 +1,75 @@
+Cluster assignments were calculated with ten different random states. This csv was created to align the cluster numbers before taking the mode of each neighborhood's assignment to achieve the most stable configuration.,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,Neighborhood,cluster1,cluster2,cluster3,cluster4,cluster5,cluster6,cluster7,cluster8,cluster9,cluster10,,
+0,Astoria/LIC,2,0,3,2,3,3,2,2,2,2,,
+1,Bed-Stuy,3,0,0,0,0,0,3,0,0,0,,
+2,Bed-Stuy/Bushwick,3,3,2,0,2,0,3,0,0,0,,
+3,Williamsburg/Bushwick/Bed-Stuy,0,3,2,3,2,0,3,0,3,0,,
+4,Bushwick,3,3,2,0,2,0,3,0,0,0,,
+5,Chelsea,1,1,1,1,1,1,1,1,1,1,,
+6,Elmhurst,0,3,2,3,2,0,3,0,3,0,,
+7,Flushing,0,3,2,3,2,0,3,0,3,0,,
+8,Greenpoint,2,2,3,2,3,2,2,3,2,3,,
+9,Harlem,0,3,2,3,2,0,3,0,3,0,,
+10,Inwood,3,3,2,0,2,0,3,0,0,0,,
+11,Jackson Heights,3,0,0,0,0,0,3,0,0,0,,
+12,LIC,0,3,0,3,0,0,0,0,3,0,,
+13,LES,2,2,3,2,3,2,2,3,2,3,,
+14,Ridgewood,3,3,2,0,2,0,3,0,0,0,,
+15,South Bronx,0,3,0,3,0,0,0,0,3,0,,
+16,Williamsburg,2,2,3,2,3,3,2,2,2,2,,
+,,,,,,,,,,,,,Most Frequent 
+,,astoria,greenpoint,astoria,astoria,astoria,greenpoint,astoria,williamsburg,astoria,williamsburg,,Astoria
+,,greenpoint,williamsburg,greenpoint,greenpoint,greenpoint,les,greenpoint,astoria,greenpoint,astoria,,Greenpoint
+,,les,les,les,les,les,,les,,les,,,LES
+,,williamsburg,,williamsburg,williamsburg,williamsburg,,williamsburg,,williamsburg,,,williamsburg
+,,,,,,,,,,,,,
+,,bedstuy,astoria,bedstuy,bedstuy,bedstuy,bed-stuy,bedstuy,bedstuy,bedstuy,bed-stuy,,bedstuy
+,,bedstuy-bushwick,bed-stuy,jackson heights,bedstuy-bushwick,jackson heights,bedstuy-bushwick,bedstuy-bushwick,bedstuy-bushwick,bedstuy-bushwick,bedstuy-bushwick,,bedstuy-bushwick
+,,bushwick,jackson heights,south bronx,bushwick,LIC ,williamsburg\bedstuy\bushwick,williamsburg/bed/bush,williamsburg/bed/bush,bushwick,williams/bed/bushwick,,inwood
+,,inwood,,LIC,inwood,South Bronx,bushwick,bushwick,bushwick,inwood,elmhurst,,jackson heights
+,,jackson heights,,,jackson heights,,elmhurst,elmhurst,elmhurst,jackson heights,flushing,,ridgewood
+,,ridgewood,,,ridgewood,,flushing,flushing,flushing,ridgewood,harlem,,
+,,,,,,,harlem,harlem,harlem,,inwood,,
+,,,,,,,inwood,inwood,inwood,,jackson heights,,
+,,,,,,,jackson heights,jackson heights,jackson heights,,LIC,,
+,,,,,,,LIC,ridgewood,LIC,,Ridgewood,,
+,,,,,,,ridgewood,,ridgewood,,South Bronx,,
+,,,,,,,south bronx,,south bronx,,,,
+,,,,,,,,,,,,,
+,,williamsburg/bushwick/bedstuy,bedstuy-bushwick,bedstuy-bushwick,south bronx,bedstuy-bushwick,williamsburg,south bronx,LES,williamsburg/bushwick/bedstuy,greenpoint,,williamsburg/bushwick/bedstuy
+,,elmhurst,williamsburg/bushwick/bedstuy,williamsburg/bushwick/bedstuy,LIC,williamsburg/bed/bush,astoria,LIC,greenpoint,elmhurst,LES,,elmhurst
+,,flushing,bushwick,bushwick,harlem,bushwick,,,,flushing,,,flushing
+,,harlem,elmhurst,elmhurst,flushing,elmhurst,,,,harlem,,,harlem
+,,LIC,flushing,flushging,elmhurst,flushing,,,,LIC,,,LIC
+,,south bronx,harlem,harlem,williamsburg/bed/bush,harlem,,,,south bronx,,,south bronx
+,,,inwood,inwood,,inwood,,,,,,,
+,,,LIC,ridgewood,,ridgewood,,,,,,,
+,,,ridgewood,,,,,,,,,,
+,,,south bronx,,,,,,,,,,
+,,,,,,,,,,,,,
+,,Chelsea,Chelsea,Chelsea,Chelsea,Chelsea,Chelsea,Chelsea,Chelsea,Chelsea,Chelsea,,Chelsea
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,The non-Chelsea/Greenpoint/Williamsburg/Astoria/LES neighborhoods separate into two clusters a majority of the time. (7/10) ,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,A,bedstuy,astoria,bedstuy,bedstuy,bedstuy,bedstuy-bushwick,bedstuy,,Mode,A,B,Final Assignment
+,,bedstuy-bushwick,bed-stuy,jackson heights,bedstuy-bushwick,jackson heights,williamsburg/bed/bush,bedstuy-bushwick,,bedstuy,7,0,A
+,,bushwick,jackson heights,south bronx,bushwick,LIC ,bushwick,bushwick,,bedstuy-bushwick,4,3,A
+,,inwood,,LIC,inwood,South Bronx,elmhurst,inwood,,inwood,4,3,A
+,,jackson heights,,,jackson heights,,flushing,jackson heights,,jackson heights,7,0,A
+,,ridgewood,,,ridgewood,,harlem,ridgewood,,ridgewood,4,0,A
+,,,,,,,inwood,,,williamsburg/bushwick/bedstuy,1,6,B
+,,,,,,,jackson heights,,,elmhurst,1,6,B
+,,,,,,,ridgewood,,,flushing,1,6,B
+,,,,,,,,,,harlem,1,6,B
+,B,williamsburg/bushwick/bedstuy,bedstuy-bushwick,bedstuy-bushwick,south bronx,bedstuy-bushwick,south bronx,williamsburg/bushwick/bedstuy,,LIC,2,5,B
+,,elmhurst,williamsburg/bushwick/bedstuy,williamsburg/bushwick/bedstuy,LIC,williamsburg/bed/bush,LIC,elmhurst,,south bronx,2,5,B
+,,flushing,bushwick,bushwick,harlem,bushwick,,flushing,,,,,
+,,harlem,elmhurst,elmhurst,flushing,elmhurst,,harlem,,,,,
+,,LIC,flushing,flushging,elmhurst,flushing,,LIC,,,,,
+,,south bronx,harlem,harlem,williamsburg/bed/bush,harlem,,south bronx,,,,,
+,,,inwood,inwood,,inwood,,,,,,,
+,,,LIC,ridgewood,,ridgewood,,,,,,,
+,,,ridgewood,,,,,,,,,,
+,,,south bronx,,,,,,,,,,
