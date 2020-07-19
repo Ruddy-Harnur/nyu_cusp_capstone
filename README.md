@@ -30,6 +30,6 @@ The Dashboard visualization shows the inputs into the each of the respective not
 ![Dashboard Read Me](https://user-images.githubusercontent.com/58189651/87869645-3a421080-c956-11ea-83d6-6ab243cfe308.png)
 
 # 6. <h1> The Analysis visualization shows the 2 main analytic components used after determining risk and neighborhood profile - Decision Tree and Clustering.
-A Decision Tree notebook employing regression analysis helped determine which features were most important at influencing risk, while unsupervised learning techniques through Gaussian Mixture Models clustered the neighborhoods to see if any similarities in how neighborhoods behaved. (Refer to **Analysis** visualization)
+A Decision Tree notebook employing regression analysis helped determine which features were most important at influencing risk, while unsupervised learning techniques through Gaussian Mixture Models clustered the neighborhoods to see if how neighborhoods clustered together.
 
 ![Analysis Read Me](https://user-images.githubusercontent.com/58189651/87869649-4332e200-c956-11ea-945f-7b40cf7c71f1.png)
