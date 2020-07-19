@@ -1,0 +1,21 @@
+Neighborhood,numBusinesses,Closed,Open,Total confirmed,% Confirmed (E/B)
+Astoria/LIC,893,1,277,278,31.1%
+Bed-Stuy,763,0,42,42,5.5%
+Bed-Stuy/Bushwick,177,0,3,3,1.7%
+Bushwick,372,0,12,12,3.2%
+Chelsea,2485,0,0,0,0.0%
+Elmhurst,231,0,5,5,2.2%
+Flushing,458,0,53,53,11.6%
+Greenpoint,229,7,93,100,43.7%
+Harlem,398,0,54,54,13.6%
+Inwood,193,0,0,0,0.0%
+Jackson Heights,259,0,30,30,11.6%
+LES,583,0,8,8,1.4%
+LIC,90,1,47,48,53.3%
+Ridgewood,283,0,2,2,0.7%
+South Bronx,362,0,0,0,0.0%
+Williamsburg,552,20,126,146,26.4%
+Williamsburg/Bushwick/Bed-Stuy,220,2,15,17,7.7%
+Sum,8548,,,,
+,,Closed,Open,,
+Total Confirmed,,31,767,,

@@ -1,0 +1,18 @@
+Neighborhood,neg,neu,pos
+Astoria/LIC,0.071,0.709,0.22
+Bed-Stuy,0.045,0.704,0.251
+Bed-Stuy/Bushwick,0.059,0.681,0.26
+Bushwick,0.047,0.684,0.27
+Chelsea,0.041,0.713,0.246
+Elmhurst,0.076,0.737,0.187
+Flushing,0.046,0.693,0.261
+Greenpoint,0.048,0.701,0.251
+Harlem,0.042,0.707,0.25
+Inwood,0.053,0.684,0.264
+Jackson Heights,0.054,0.711,0.235
+LES,0.053,0.696,0.251
+LIC,0.046,0.734,0.22
+Ridgewood,0.052,0.688,0.26
+South Bronx,0.049,0.724,0.227
+Williamsburg,0.049,0.686,0.265
+Williamsburg/Bushwick/Bed-Stuy,0.051,0.684,0.265
