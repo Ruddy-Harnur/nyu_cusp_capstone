@@ -3,9 +3,9 @@ Documentation and code for NYU Center for Urban Science + Progress capstone proj
 
 This Read Me has the 6 Main Process Maps that document the code and source files used in this project.
 Data pertaining to the LiveXYZ dataset cannot be publicly shared. For access, please request NYC Mayor's Office of Media and Entertainment (MOME) under their Department of Nightlife.
-# 1 <h1> 
-LiveXYZ data (provided by MOME) and Yelp Data (scraped publicly with APIs) were the initial phases of our project. (Refer to **Live XYZ** and **Yelp** visualizations)
-Through exploratory data analysis, the group was able to glean insight on text analysis to help build neighborhood profiles for the focus regions in NYC.
+# 1 <h1> LiveXYZ data (provided by MOME) and Yelp Data (scraped publicly with APIs) were the initial phases of our project. (Refer to **Live XYZ** and **Yelp** visualizations)
+Through exploratory data analysis, the group was able to glean insight on text analysis to help build neighborhood profiles for the focus regions in NYC. 
+
 
 ![Live XYZ Read Me](https://user-images.githubusercontent.com/58189651/87869546-880a4900-c955-11ea-8e6f-908da5c7d68d.png)
 
