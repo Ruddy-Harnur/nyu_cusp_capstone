@@ -17,4 +17,4 @@ The visualization shows the inputs into the each of the respective notebooks, an
 
 A Decision Tree notebook employing regression analysis helped determine which features were most important at influencing risk, while unsupervised learning techniques through Gaussian Mixture Models clustered the neighborhoods to see if any similarities in how neighborhoods behaved. (Refer to Analysis Read Me visualization)
 
-![alt text](https://github.com/[Ruddy-Harnur]/[nyu_cusp_capstone]/blob/[Ani]/https://github.com/nycnightliferesilience/nyu_cusp_capstone/blob/Ani/Live%20XYZ%20Read%20Me.png?raw=true)
+![Live XYZ Read Me](https://user-images.githubusercontent.com/58189651/87869546-880a4900-c955-11ea-8e6f-908da5c7d68d.png)
