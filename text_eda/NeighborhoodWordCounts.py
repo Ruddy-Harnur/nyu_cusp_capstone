@@ -10,11 +10,6 @@ import geopandas as gpd
 
 from functools import reduce
 import importlib
-import mr_word_count
-importlib.reload(mr_word_count)
-from mr_word_count import MRWordFrequencyCount
-from mrjob.job import MRJob
-import mapreduce as mr
 import nltk
 from bs4 import BeautifulSoup
 import string
