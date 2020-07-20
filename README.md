@@ -1,8 +1,12 @@
 # nyu_cusp_capstone
 Documentation and code for NYU Center for Urban Science + Progress capstone project "Preserving NYC Nightlife Culture Post-COVID-19"
 
-This Read Me has the 6 Main Process Maps that document the code and source files used in this project.
+This Read Me has the Abstract and 6 Main Process Maps that document the code and source files used in this project.
 Data pertaining to the LiveXYZ dataset cannot be publicly shared. For access, please request NYC Mayor's Office of Media and Entertainment (MOME) under their Department of Nightlife.
+
+# Project Abstract
+New York City nightlife is a bustling $35.1 billion industry with world-renowned culture and community that draws people from all over the world (NYC MOME, 2019). With rising rent costs, gentrification, and most recently, Covid-19 shutdowns, the NYC Mayor’s Office of Media and Entertainment (MOME) is exploring supportive policies that can help the nightlife industry recover, adapt, and thrive for years to come. By analyzing MOME’s Covid-19 survey and incorporating neighborhood factors known to affect the well-being of the nightlife industry, the team will develop an interactive dashboard that displays the neighborhoods predicted to be at highest risk of experiencing permanent nightlife cultural loss. Additionally, text analysis of widely used sources describing local nightlife will reveal each neighborhood’s defining cultural characteristics, thus contextualizing and humanizing potential losses.
+
 # 1. <h1> LiveXYZ data (provided by MOME) and Yelp Data (scraped publicly with APIs) were the initial phases of our project.
 Through exploratory data analysis, the group was able to glean insight on text analysis to help build neighborhood profiles for the focus regions in NYC. 
 
