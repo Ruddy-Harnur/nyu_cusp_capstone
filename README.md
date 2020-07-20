@@ -1,7 +1,7 @@
 # nyu_cusp_capstone
 Documentation and code for NYU Center for Urban Science + Progress capstone project "Preserving NYC Nightlife Culture Post-COVID-19"
 
-This Read Me has the 6 Main Process Maps that document the code and source files used in this project.
+This Read Me has the Abstract and 6 Main Process Maps that document the code and source files used in this project.
 Data pertaining to the LiveXYZ dataset cannot be publicly shared. For access, please request NYC Mayor's Office of Media and Entertainment (MOME) under their Department of Nightlife.
 
 # Project Abstract
